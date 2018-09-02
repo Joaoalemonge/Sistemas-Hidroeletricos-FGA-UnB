@@ -148,6 +148,9 @@ O projeto do aproveitamento consistirá na realização e apresentação de cál
   - Cada grupo deverá preencher uma ART (Anotação de Responsabilidade Técnica) para:
 
     - **Cargo e Função**, designando a tarefa de cada membro do grupo;
+     
+       [ART Cargo e Função](https://github.com/Joaoalemonge/Sistemas-Hidroeletricos-FGA-UnB/blob/master/grupo_1/ART%20-%20Cargo%20e%20Fun%C3%A7%C3%A3o%20-%20ART-1VIA.pdf)
+    
     - **Atuação**, designando os projetos a serem executados para a construção da usina;
     - **Obras e Serviços**, designando quais obras e serviços **relacionados a estudos, serviços e projetos civis** deverão ser executados para a construção da usina;
 
